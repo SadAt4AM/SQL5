@@ -1,0 +1,47 @@
+[
+    {
+        "email": "Mrs.c.chase@mail.ru",
+        "name": "Cory",
+        "phone": [
+            895424654
+        ],
+        "surname": "Chase"
+    },
+    {
+        "email": "DmitryKim@mail.ru",
+        "name": "Dmitry",
+        "phone": [
+            895424655
+        ],
+        "surname": "Kim"
+    },
+    {
+        "email": "PetaJensen@mail.ru",
+        "name": "Peta",
+        "phone": [
+            123556754,
+            895424656
+        ],
+        "surname": "Jensen"
+    },
+    {
+        "email": "PiersMorgan@mail.ru",
+        "name": "Piers",
+        "phone": [
+            895424658
+        ],
+        "surname": "Morgan"
+    },
+    {
+        "email": "JessiePinkman@mail.ru",
+        "name": "Jessie",
+        "phone": [],
+        "surname": "Pinkman"
+    },
+        {
+        "email": "WalterWhite@mail.ru",
+        "name": "Walter",
+        "phone": [],
+        "surname": "White"
+    }
+]
